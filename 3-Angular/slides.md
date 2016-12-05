@@ -12,7 +12,7 @@
 
 ## Concepts généraux
 
-### Architecture 3/3
+### Architecture 3 / 3
 
 AngularJs se place en première ligne dans une architecture 3/3. Il consomme les données du backend et sert d’interface homme machine (IHM)
 
