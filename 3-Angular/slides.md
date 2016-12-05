@@ -3,8 +3,6 @@
 
 ### Sources
 
-### Sources (Miroirà
-
 #### AngularJs 1
 * angular-base.7z
 * angular-common.7z
@@ -16,9 +14,9 @@
 
 ### Architecture 3/3
 
-AngularJs se place en première ligne dans une architecture 3/3. Il consomme les données du backend et sert d’interface homme machine (IHM)
+AngularJs se place en première ligne dans une architecture 3/3. Il consomme les données du backend et sert d’interface homme machine (IHM)
 
-Les données sont consommées depuis le backend via des requêtes HTTP asynchrone,Ces données brut sont ensuite formatées en composants visuels (tableau, graphique …)Le backend expose des fonctions REST. Le frontend consomme ces données (généralement en format Json).
+Les données sont consommées depuis le backend via des requêtes HTTP asynchrone, Ces données brut sont ensuite formatées en composants visuels (tableau, graphique …) Le backend expose des fonctions REST. Le frontend consomme ces données (généralement en format Json).
 
 Les données sont persistées et récupérées ici. Le backend est utilisé pour effectuer les requêtes dans les bases de données (couche persistance) 
 
